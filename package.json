@@ -1,0 +1,9 @@
+{
+  "name": "my-website-theme",
+  "version": "1.0.0",
+  "description": "HubSpot Website Theme",
+  "devDependencies": {
+    "@hubspot/cli": "^3.0.9",
+    "js-yaml": "^3.13.1"
+  }
+}
