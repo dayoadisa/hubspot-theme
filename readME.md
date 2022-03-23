@@ -8,3 +8,4 @@ A web application for booking laundry and sauna services.
 - MongoDB
 - NodeJS/Express
 - HubSpot
+- NextJS
